@@ -1,0 +1,1 @@
+no exit call in thread, should trap at bogus address

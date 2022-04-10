@@ -1,0 +1,1 @@
+/p/course/cs537-swift/tests/tester/run-xv6-command.exp CPUS=1 Makefile.test test_3 | grep TEST

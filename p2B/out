@@ -1,0 +1,10 @@
+total 91
+drwxrwxr-x 2 chrisy chrisy  2048 Mar  6 23:51 .
+drwxrwxr-x 6 chrisy chrisy  2048 Mar  4 17:52 ..
+-rwxrwxr-x 1 chrisy chrisy 20320 Mar  6 21:56 linkedList
+-rw-rw-r-- 1 chrisy chrisy  1669 Mar  6 21:56 linkedList.c
+-rwxrwxr-x 1 chrisy chrisy 26664 Mar  6 23:51 mysh
+-rw-rw-r-- 1 chrisy chrisy  9011 Mar  6 23:51 mysh.c
+-rw-r--r-- 1 chrisy chrisy 28672 Mar  6 23:51 .mysh.c.swp
+-rw-rw-r-- 1 chrisy chrisy     0 Mar  6 23:51 out
+-rw-rw-r-- 1 chrisy chrisy   114 Mar  6 23:09 test.txt

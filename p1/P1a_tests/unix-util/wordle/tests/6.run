@@ -1,0 +1,1 @@
+./wordle ./tests/wordlist.txt qwertyuiopasdfghjkl

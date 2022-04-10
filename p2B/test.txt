@@ -1,0 +1,10 @@
+alias ll /usr/bin/ls -l -a
+alias > test2.txt 
+alias c /usr/bin/cat
+alias e /usr/bin/echo
+alias
+ll > test3.txt
+e hello
+unalias c
+alias
+exit
